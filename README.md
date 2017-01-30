@@ -1,4 +1,5 @@
-# FizzBuzz Pair Programming Challenge - Javascript #
+# FizzBuzz - Javascript #
+### [Makers Academy] (http://www.makersacademy.com) - Week 5 Pair Programming Project
 
 * [Setting up the application] (#setup)
 * [Running Jasmine tests] (#jasmine)
