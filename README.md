@@ -1,11 +1,11 @@
 # FizzBuzz - Javascript #
 #### Technologies: Javascript, Jasmine
-### [Makers Academy] (http://www.makersacademy.com) - Week 5 Pair Programming Project
+### [Makers Academy](http://www.makersacademy.com) - Week 5 Pair Programming Project
 
-* [Setting up the application] (#setup)
-* [Running Jasmine tests] (#jasmine)
-* [Jasmine Tests] (#tests)
-* [Javascript Code] (#java)
+* [Setting up the application](#setup)
+* [Running Jasmine tests](#jasmine)
+* [Jasmine Tests](#tests)
+* [Javascript Code](#java)
 
 ## The Challenge ##
 The challenge was to make a simple “FizzBuzz” program that accepted one integer value into a function called fizzBuzz. The function checks for the following conditions: if the integer is divisible by 3 it returns ‘Fizz’, if the integer is divisible by 5 it returns ‘Buzz’, if the integer is divisible by 3 and 5 it returns ‘FizzBuzz’ and if none of the conditions are met it returns the integer. Example below
